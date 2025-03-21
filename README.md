@@ -49,7 +49,9 @@ Recém-formado em **Sistemas de Informação** com experiência em **suporte té
 
 ### Projects Links
 
-[Apache-Airflow](https://github.com/wtnhrr/Apache-Airflow/)
+[Apache-Airflow](https://github.com/wtnhrr/Apache-Airflow/) \
+[Banco de dados](https://github.com/wtnhrr/-BD-Gerenciamento-de-ativos-de-seguranca)
+
 
 ## Extracurricular
 ### Mastercard Cybersecurity Virtual Experience Program (2024)
