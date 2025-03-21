@@ -2,7 +2,7 @@
 
 ## About Me
 
-Recém-formado em **Sistemas de Informação** com experiência em **suporte técnico**, **infraestrutura de TI** e **segurança da informação**. Interesse e atuação em **desenvolvimento web**, **cibersegurança** e **DevOps**.
+Formado em **Sistemas de Informação** com experiência em **suporte técnico**, **infraestrutura de TI** e **segurança da informação**.
 
 ## Programming Languages
 
