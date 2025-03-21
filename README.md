@@ -19,6 +19,7 @@ Recém-formado em **Sistemas de Informação** com experiência em **suporte té
 
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=Apache-Spark)
 
 ### DevOps & Infrastructure
 
@@ -26,8 +27,10 @@ Recém-formado em **Sistemas de Informação** com experiência em **suporte té
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware)
+![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=DevOps)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
+![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-000?&logo=GNUBash)
 
 ### Cybersecurity
 
@@ -39,6 +42,8 @@ Recém-formado em **Sistemas de Informação** com experiência em **suporte té
 ![Frameworks de Segurança - LGPD](https://img.shields.io/badge/-LGPD-000?&logo=Security)
 ![OpenVAS](https://img.shields.io/badge/-OpenVAS-000?&logo=Security)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=Security)
+![pfSense Firewall](https://img.shields.io/badge/-pfSense-000?&logo=Security)
+![IDS - Snort](https://img.shields.io/badge/-Snort-000?&logo=Security)
 
 ### Networking Protocols
 
@@ -46,6 +51,17 @@ Recém-formado em **Sistemas de Informação** com experiência em **suporte té
 ![DNS](https://img.shields.io/badge/-DNS-000?&logo=Network)
 ![DHCP](https://img.shields.io/badge/-DHCP-000?&logo=Network)
 ![SSH](https://img.shields.io/badge/-SSH-000?&logo=Network)
+
+### Data Engineering & Automation
+
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=Apache-Kafka)
+![Debezium](https://img.shields.io/badge/-Debezium-000?&logo=Data-Integration)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=Apache-Airflow)
+
+### Version Control
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 
 ### Projects Links
 
