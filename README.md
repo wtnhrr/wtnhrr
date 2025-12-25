@@ -2,7 +2,7 @@
 
 ## About Me
 
-Formado em **Sistemas de Informação** com experiência em **suporte técnico**, **infraestrutura de TI** e **segurança da informação**.
+Formado em **Sistemas de Informação** e **Ciência e Tecnologia** com experiência em **suporte técnico**, **infraestrutura de TI** e **segurança da informação**.
 
 ## Programming Languages
 
